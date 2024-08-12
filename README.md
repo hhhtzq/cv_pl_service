@@ -15,13 +15,13 @@
 
 ​	Scanaia (职位：C++ developer) https://www.scania.com/career.html
 
-<img src="/home/ziqin/Documents/cv_pl_service_folder/cv_pl_service/Utils /images/scania_offer.png" style="zoom:33%;" />
+<img src="Utils /images/scania_offer.png" style="zoom:33%;" />
 
-<img src="/home/ziqin/Documents/cv_pl_service_folder/cv_pl_service/Utils /images/scania.png" alt="scania" style="zoom:33%;" />
+<img src="Utils /images/scania.png" alt="scania" style="zoom:33%;" />
 
 ​	BYD europe (职位: Nordic Customer Engineer)  https://careers.bydeurope.com/
 
-<img src="/home/ziqin/Documents/cv_pl_service_folder/cv_pl_service/Utils /images/byd.png" style="zoom:33%;" />
+<img src="Utils /images/byd.png" style="zoom:33%;" />
 
 
 
